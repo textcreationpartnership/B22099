@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament declaring that it shall and may be lawfull for all foreigners and strangers in amity with this kingdome to have free trade and commerce to and from the city of London and all other ports and places within any of His Majesties dominions, standing right and keeping fidelity to the King and Parliament : provided that they bring over no quantity of ordnance, armes and other warlike ammunition into Newcastle, Topsham, Falmouth, Dartmouth or any other parts in this kingdome in hostility against the Parliament, or to assist the Irish rebels.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22099</idno><idno type="EEBO-CITATION">11892452</idno>
+  <idno type="VID">196452</idno>
+  <idno type="EEBO-PROQUEST">2240890923</idno>
+  
+            <idno type="STC">Wing E1833</idno>
+            <idno type="OCLC">11892452</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196452)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 228:E7, no 31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament declaring that it shall and may be lawfull for all foreigners and strangers in amity with this kingdome to have free trade and commerce to and from the city of London and all other ports and places within any of His Majesties dominions, standing right and keeping fidelity to the King and Parliament : provided that they bring over no quantity of ordnance, armes and other warlike ammunition into Newcastle, Topsham, Falmouth, Dartmouth or any other parts in this kingdome in hostility against the Parliament, or to assist the Irish rebels.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 31, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196452:1"/>
+            <p>AN ORDINANCE OF THE Lords and Commons Assembled in PARLIAMENT, DECLARING, That it shall and may be lawfull for all Foreigners and Strangers, in amity with this Kingdome, to have free Trade and Commerce, to, and from the City of <hi>London,</hi> and all other Ports and places within any of His Majesties Dominions, standing right, and keeping fidelity to the King and Parliament.</p>
+            <p>Provided that they bring over no quantity of Ordnance, Armes, and other warlike Ammunition, into <hi>Newcastle, Topsham, Falmouth, Dartmouth,</hi> or any other parts in this Kingdome in hostility against the Parliament; or to assist the Irish Rebels.</p>
+            <p>Die Veneris, 30 August. 1644.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords in Parliament assembled, That the Clerke of the Parliaments shall cause this Ordinance to be printed. And that the Sergeant of the Mace that attends the Commissioners of the great Seale shall publish it, as is directed in the said Ordinance.</p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, August 31. 1644.</p>
+            <pb facs="tcp:196452:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="1" facs="tcp:196452:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Ʋeneris, 30 August. 1644.</date>
+               </dateline>
+            </opener>
+            <head type="sub">AN ORDINANCE OF THE Lords and Commons Assembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons now assembled in Parliament fin<g ref="char:EOLhyphen"/>ding by continuall experience, that very great quantities of Ord<g ref="char:EOLhyphen"/>nance, Armes, and other warlike Ammunition, together with Ships, Goods, and Victuals of all sorts have been and still are brought into <hi>Newcastle, Fall<g ref="char:EOLhyphen"/>mouth, Topsham, Dartmouth,</hi> and other parts of this Kingdome, being in hostility against the King and Parliament: as also into the Realme of <hi>Ireland</hi> from forraigne parts, to be employed for the reliefe of the Rebels of the said Kingdomes of <hi>England</hi> and <hi>Ireland,</hi>
+               <pb n="2" facs="tcp:196452:3"/> and against the Parliament and their adherents, the wel-affected persons of this Kingdome, have by their Ordinance dated the last day of <hi>November,</hi> 1643. Ordered, Established, and Ordained, that it shall and may be lawfull for any of His Majesties good and loyall Subjects to be approved and thereunto appoin<g ref="char:EOLhyphen"/>ted by the Lord High Admirall of <hi>England</hi> for the time being appointed by them the said Lords and Com<g ref="char:EOLhyphen"/>mons to equip, furnish, and set forth such and so many Ships, and other vessels warlikely appointed, as they shall thinke fit, and with the same to seize, surprize, and take all, and all manner of Ships and Vessels, with the Ordnance, Ammunition, Victuals, Goods, Commanders, and Souldiers that they shall méet withall, in, or outwards bound, from any part or place within any of His Majesties Dominions, being in hostility against the King and Parliament: or com<g ref="char:EOLhyphen"/>ming from, or returning to any such part or place, or that shal be found to have traded with the inhabitants of any such parts or place, since their defection from the King and Parliament: And also to surprize and take all &amp; all man<g ref="char:EOLhyphen"/>ner of Ships and Vessels, with the Ordnance, Ammuni<g ref="char:EOLhyphen"/>tion, Victuals and Goods therein belonging to any rebell or rebels in <hi>Ireland;</hi> and further, to surprize and take all, and all manner, of Pirats, and Sea-rovers, of what Nation soever, and their Ships and Goods whatsoever, and to have and enjoy the same, after ad<g ref="char:EOLhyphen"/>judication in the high Court of Admiralty, as their owne proper goods, according to the purport, and in<g ref="char:EOLhyphen"/>tent of the said Ordinance.</p>
+            <p>And forasmuch as it hath not yet been declared by the said Lords and Commons what Ports and places they
+<pb n="3" facs="tcp:196452:3"/> account to be in defection from the King and Parlia<g ref="char:EOLhyphen"/>ment in the Kingdome of <hi>Ireland,</hi> since the making of the pretended cessation of Armes there, The Lords and Commons aforesaid doe hereby declare, that all and singular the Ports and places in the Kingdome of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> are in defection from the King and Parliament, and within the compasse of the said Ordinance, except the ports in the Province of <hi>Ulster</hi> from <hi>Strangford</hi> inclu<g ref="char:EOLhyphen"/>sive Northward, &amp; so along the coast to <hi>Callebecke</hi> inclu<g ref="char:EOLhyphen"/>sive, and except the fort of <hi>Duncannon,</hi> &amp; except the Port of <hi>Youghall, Cork,</hi> &amp; <hi>Kensale</hi> in the Province of <hi>Munster.</hi> And yet notwithstanding, the said Lords and Com<g ref="char:EOLhyphen"/>mons being very willing, that Foreigners, and Stran<g ref="char:EOLhyphen"/>gers should receive all encouragement for Trade, and commerce with the City of <hi>London</hi> and other ports, and places that stand right, and kéep their fidelity to the King and Parliament, and such further liberty as may con<g ref="char:EOLhyphen"/>sist with the weale and safety of the Kingdome, have or<g ref="char:EOLhyphen"/>deyned and declared, and by these presents doe ordeyne and declare; That it shall and may be lawfull for all Foreigners &amp; Strangers in amity with this Kingdom to have frée Trade and Commerce, to and from the City of <hi>London</hi> and all other ports and places within any of His Majesties Dominions standing right, and keeping the fidelity to the King and Parliament, they paying the customes and discharging such duties as are due and accustomed; And whereas it is alledged that some Foreigners and Strangers subjects to other Prin<g ref="char:EOLhyphen"/>ces, and States, Confederates, and Allies to His Ma<g ref="char:EOLhyphen"/>jesty, have some part of their estates remaining in the Cities of <hi>Exceter</hi> and <hi>Bristoll,</hi> and other Townes and places of this kingdome of <hi>England</hi> in defection from
+<pb n="4" facs="tcp:196452:4"/> the King and Parliament, and licence and leave is desi<g ref="char:EOLhyphen"/>red by the Ambassadors, and agents of those Prin<g ref="char:EOLhyphen"/>ces and States, for the withdrawing of the same from those Cities, Townes, and places; The said Lords and Commons being very willing to maintaine a good correspondency, and understanding between His Ma<g ref="char:EOLhyphen"/>iesty and all his confederats and allies, and their sub<g ref="char:EOLhyphen"/>iects respectively, and desirous that the subiects of such confederates and allies should not receive any man<g ref="char:EOLhyphen"/>ner of losse, dammage or preiudice in their Estates by the unhappy differences and troubles that are risen in this kingdome, but should have all such liberty as may consist with the VVeale and Safety of this Realme and other his Maiesties Dominions; doe here<g ref="char:EOLhyphen"/>by declare, That notwithstanding their former Ordi<g ref="char:EOLhyphen"/>nance aforesaid, it shall and may be lawfull to and for any Forreiner or Stranger, subiect to any Prince or State in amity with his Maiesty, with such and so ma<g ref="char:EOLhyphen"/>ny Ships or other Vessells as shall be needfull to sayle, or goe to the ports or harbors of <hi>Exceter, Bristoll, Falmouth, Topsham, Newcastle,</hi> or any other port or place in this kingdome of <hi>England,</hi> which are or shall be in defection from the King and Parliament, and from thence by all lawfull wayes and meanes to with<g ref="char:EOLhyphen"/>draw, trans-port, and carry away their Goods and estates; provided, that those Ships or Vessells which they shall carry into any such port or place, doe not carry or beare any Ordnance, nor carry into any such port or place any goods or Merchandizes whatsoever, monies, armes, ammunition, materialls for Shipping, or Victualls, more then such Victualls as shall be necessary for the sustentation of the company
+<pb n="5" facs="tcp:196452:4"/> of such ship or ships, and such monies as shall be neces<g ref="char:EOLhyphen"/>sary for the uses of such ship or ships, for the necessary supply of them and their companies; And provided fur<g ref="char:EOLhyphen"/>ther, that such City or Towne be not then besieged by the Ships or any other forces of the King and Parlia<g ref="char:EOLhyphen"/>ment, and that such Forreiners and Strangers, under pretence of withdrawing their owne estates, doe not bring away the goods of any his Maiesties subiects, and in case any ship or other Vessell comming from any such port, or place as aforesaid shall be found to have aboard her any Goods, Monies or merchandizes belonging to any of his Maiesties subject, or subjects; The Lords and Commons doe hereby declare, That not onely such Goods, Money and Merchandizes, shall be good prize to the takers, being so adiudged in the Court of Admiralty, but also all the Goods, Mo<g ref="char:EOLhyphen"/>nies, or Merchandizes belonging to any Stranger, or Forreiner, in whose name any such Goods, Monies or Merchandizes belonging to any of his Maiesties sub<g ref="char:EOLhyphen"/>jects shall be shipped or coloured, and the ship it selfe in which they shall be found, shall also be prize to the takers, in case it shall be proved that the Master or Owner of that ship, or the Owner of such Goods and Mer<g ref="char:EOLhyphen"/>chandize, in whose name such Goods were colourably shipped, knew that any such Goods, Monies, or Merchandizes at the time of the lading thereof did belong to any of his Maiesties Subiects.</p>
+            <p>And be it further Ordained and Declared, that no Commander of Ship or Ships, or other person what<g ref="char:EOLhyphen"/>soever doe or shall under the pretence of this Ordinance, or any clause therein contamed, presume to seize, surprise, or take any Ship or other Vessell whatsoever,
+<pb n="6" facs="tcp:196452:5"/> or any of their lading, during the time such ship or ves<g ref="char:EOLhyphen"/>sell shall remaine, or be within any of the ports, or Havens belonging to any Kingdome, or state, in amity with the Crown and kingdom of <hi>England.</hi>
+            </p>
+            <p>And to the end that publique notice may be taken of the said Ordinance aforementioned, and of this pre<g ref="char:EOLhyphen"/>sent Ordinance, aswell by Foreigners as His Maiesties subiects; The Lords and Commons aforesaid doe hereby order, and command that the said former Or<g ref="char:EOLhyphen"/>dinance, and this present Ordinance and Declaration, shall both be published by a sergeant at Armes, three severall dayes upon the exchange <hi>London,</hi> at the time of the concourse of Merchants thither, and Copies of them both subscribed by the Clerke of the Parliaments, to be sent to the Ambassadors, and Ministers of for<g ref="char:EOLhyphen"/>raigne Nations here resident, by the Speaker of either of the said Houses to be by them, or either of them intimated and made knowne to the subjects of those Princes or States which they represent: or from whom they are imployed.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
